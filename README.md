@@ -8,27 +8,26 @@ The current system in place at my.ucf.edu uses Oracle's Peoplesoft software whic
 Motivations
 =========
 # Pros
-### Save on costs instead of outsourcing
-### Combined hours saved by student population
-### Value for UCF / long term investment
-### Could create more information technology jobs at UCF by having to maintain our own system
-### Less reliance on third parties (Oracle)
-### Really wanted by the student body (show multiple reddit posts with hundreds of upvotes)
+- Save on costs instead of  Combined hours saved by student population
+- Value for UCF / long term investment
+- Could create more information technology jobs at UCF by having to maintain our own system
+- Less reliance on third parties (Oracle)
+- Really wanted by the student body (show multiple reddit posts with hundreds of upvotes)
 
 # Cons
-### Could be more expensive to manage our own system
-### Could be less secure to manage our own system than having a massive enterprise running it
+- Could be more expensive to manage our own system
+- Could be less secure to manage our own system than having a massive enterprise running it
 
 New features
 =========
-## Link to rate my professor
-## Integrate with rate my professor
-## Student / Faculty Hierarchy / Privilege
-## Some level of customization
-## Proper search
-## Single Sign On (SSO) functionality
-## Analytics system for user detection
-## System administration usage (overriding permissions)
+- Link to rate my professor
+- Integrate with rate my professor
+- Student / Faculty Hierarchy / Privilege
+- Some level of customization
+- Proper search
+- Single Sign On (SSO) functionality
+- Analytics system for user detection
+- System administration usage (overriding permissions)
 
 Front end changes
 ==============
@@ -55,7 +54,3 @@ MongoDB
 - Page layout and navigability
 - UX/UI
 - Creating a database
-
-
-Planning
-======
